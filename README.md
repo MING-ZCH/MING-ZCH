@@ -7,7 +7,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MING-ZCH/MING-ZCH/output/github-contribution-grid-snake.svg">
 </picture>
 
-I'm a **22nd undergraduate student** of **HUST(Huazhong University of Science and Technology)**\
+I'm a **22nd undergraduate student** of **HUST(Huazhong University of Science and Technology)**
 * **Let's explore the future of emotional intelligence!** \
 ⭐My research interests are in the field of **AI**, including **NLP and Recommender Systems**, currently researching: **Psychological domain of LLM/Agent**\
 **Feel free to talk with me!** \
