@@ -7,10 +7,10 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MING-ZCH/MING-ZCH/output/github-contribution-grid-snake.svg">
 </picture>
 
-I'm a **22nd undergraduate student** of **HUST(Huazhong University of Science and Technology)**
+I'm **Chenhao Zhang(张辰皓)**, an **undergraduate student** of **Huazhong University of Science and Technology(HUST)**
 * **Let's explore the future of emotional intelligence!** \
 ⭐My research interests are in the field of **AI**, including **NLP and GNN**, currently researching: **Psychological domain of LLM/Agent**\
 **Feel free to talk with me!** \
-Email: [zch1046315765@gmail.com] or [ming_zch@foxmail.com]
+Email: [ zch1046315765@gmail.com ] or [ ch_zhang@hust.edu.cn ]
 
 ![MING-ZCH's GitHub stats](https://github-readme-stats.vercel.app/api?username=MING-ZCH&count_private=true&show_icons=true&theme=dracula)
