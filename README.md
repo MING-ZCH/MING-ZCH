@@ -13,4 +13,4 @@ I'm **Chenhao Zhang(张辰皓)**, an **undergraduate student** of **Huazhong Uni
 📧**Feel free to talk with me!** \
 Email: [ zch1046315765@gmail.com ] or [ ch_zhang@hust.edu.cn ]
 
-![MING-ZCH's GitHub stats](https://github-readme-stats.vercel.app/api?username=MING-ZCH&count_private=true&show_icons=true&theme=dracula)
+<!-- ![MING-ZCH's GitHub stats](https://github-readme-stats.vercel.app/api?username=MING-ZCH&count_private=true&show_icons=true&theme=dracula)-->
