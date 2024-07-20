@@ -9,7 +9,7 @@
 
 I'm **Chenhao Zhang(张辰皓)**, an **undergraduate student** of **Huazhong University of Science and Technology(HUST)**
 * **Let's explore the future of AGI!** \
-💬My research interests are in the field of **NLP**, including **Emotional Intelligence and Lagre Language Model**. \
+💬My research interests are in the field of **NLP**, including **Emotional AI and Multimodel Lagre Language Model**. \
 🔥Currently focus on: **Mental Health AI (LLM/Agent) and LLM general ability(Reasoning/Understanding)**.\
 📧**Feel free to talk with me!** \
 Email: [ zch1046315765@gmail.com ] or [ ch_zhang@hust.edu.cn ]
