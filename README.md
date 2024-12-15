@@ -6,7 +6,7 @@ I'm **Chenhao(Leo) Zhang (张辰皓)**, an **undergraduate student** of **Huazho
 💬My research interests are in the field of **NLP**, including **Emotional AI** and **Vision & Language**. \
 🔥Currently focus on: **Mental Health AI (ESC/Agent) and MLLM general ability (Reasoning/Understanding)**.\
 📧**Feel free to talk with me!** \
-Email: [ zch1046315765@gmail.com ] or [ ch_zhang@hust.edu.cn ]
+Email: [ leo.chenhaozhang@gmail.com ] or [ ch_zhang@hust.edu.cn ]
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MING-ZCH/MING-ZCH/output/github-contribution-grid-snake-dark.svg">
