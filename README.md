@@ -14,6 +14,8 @@ Email: [ leo.chenhaozhang@gmail.com ] or [ ch_zhang@hust.edu.cn ]
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MING-ZCH/MING-ZCH/output/github-contribution-grid-snake.svg">
 </picture>
 
+<!--
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MING-ZCH&count_private=true&show_icons=true&theme=dracula" alt="MING-ZCH's GitHub stats" />
 </div>
+-->
