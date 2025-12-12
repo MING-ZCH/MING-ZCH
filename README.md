@@ -4,7 +4,7 @@
 I'm **Chen-Hao(Leo) Chang (张辰皓)**, an **undergraduate student** of **Huazhong University of Science and Technology (HUST)**
 * **Let's explore the future of AGI!** \
 💬My research interests are at the intersection of **Natural Language Processing (NLP)** and **Computer Vision (CV)**. \
-🔥Currently focus on: **Vision-Language Reasoning** and **Emotion AI**.\
+🔥Currently focus on: **Vision-Language Reasoning** and **Emotional AI**.\
 📧**Feel free to talk with me!** \
 Email: [ leo.chenhaozhang@gmail.com ] or [ ch_zhang@hust.edu.cn ]
 
